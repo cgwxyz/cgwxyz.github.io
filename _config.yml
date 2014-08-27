@@ -1,3 +1,3 @@
 title: cg pages
-baseurl: cgwxyz.github.io/
+baseurl: /
 permalink: /:year/:month/:day/:title
