@@ -1,3 +1,3 @@
 title: cg pages
 baseurl: cgwxyz.github.io/
-permalink: pretty
+permalink: /:year/:month/:day/:title
